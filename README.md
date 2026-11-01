@@ -2,7 +2,7 @@
 
 A 2D arcade defender game built using Godot 4.
 
-🎮 **[Play the Web Demo on itch.io](https://kapildhwaj.itch.io/your-game-name)**
+🎮 **[Play the Web Demo on itch.io](https://kapildhwaj.itch.io/watterfallrunner)**
 
 ---
 
